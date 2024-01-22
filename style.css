@@ -75,15 +75,8 @@ body {
 .flex-start {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.8rem;
-}
-
-.flex-center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 1rem;
 }
 
 .flow-content > * + * {
@@ -97,6 +90,10 @@ body {
 
 .custom-marker > li {
   padding-left: 1rem;
+}
+
+.text-align {
+  text-align: center;
 }
 
 /* GENERAL STYLES */
