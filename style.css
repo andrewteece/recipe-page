@@ -95,8 +95,8 @@ body {
   font-weight: var(--fw-bold);
 }
 
-.margin-left {
-  margin-left: 1rem;
+.custom-marker > li {
+  padding-left: 1rem;
 }
 
 /* GENERAL STYLES */
@@ -137,6 +137,10 @@ span {
 .card p {
   font: var(--fs-base);
   line-height: 1.5;
+}
+
+.card ul {
+  padding-inline: 2rem;
 }
 
 .card--prep {
