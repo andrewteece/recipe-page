@@ -83,12 +83,6 @@ body {
   margin-top: 1rem;
 }
 
-.even-columns {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 ::marker {
   color: var(--clr-primary-500);
   font-weight: var(--fw-bold);
