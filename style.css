@@ -189,3 +189,11 @@ td:nth-child(even) {
   color: var(--clr-primary-500);
   font-weight: var(--fw-bold);
 }
+
+/* MEDIA QUERY */
+
+@media (min-width: 50rem) {
+  .wrapper {
+    max-width: 46.25rem;
+  }
+}
