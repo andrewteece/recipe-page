@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/andrewteece/recipe-page](https://your-solution-url.com)
-- Live Site URL: [https://darling-licorice-d166f3.netlify.app/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/andrewteece/recipe-page](https://github.com/andrewteece/recipe-page)
+- Live Site URL: [https://darling-licorice-d166f3.netlify.app/](https://darling-licorice-d166f3.netlify.app/)
 
 ### Built with
 
